@@ -1,5 +1,7 @@
 # d5data-python-test — FastAPI streaming demo
 
+[![CI](https://github.com/wzjaiykz/d5data-python-test/actions/workflows/ci.yml/badge.svg)](https://github.com/wzjaiykz/d5data-python-test/actions/workflows/ci.yml)
+
 A small FastAPI service that streams a response token by token, the way an LLM
 chat API does. Three endpoints, one browser page, six tests.
 
